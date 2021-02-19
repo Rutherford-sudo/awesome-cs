@@ -278,6 +278,12 @@
  - [What Every Programmer Should Know About Compiler Optimizations](https://msdn.microsoft.com/en-us/magazine/dn904673.aspx)
  - [Compiler Explorer](http://gcc.godbolt.org/)
  - [Compiler Design Tutorial](http://www.tutorialspoint.com/compiler_design/index.htm)
+ - [Modern Compiler Implementation in Java](http://libgen.rs/book/index.php?md5=CCFB47729944282C0B6342D2E8368A89)
+ - [Types and Programming Languages](http://www.kevinluo.net/books/book_Types%20and%20Programming%20Languages%20-%20Benjamin%20C.%20Pierce.pdf)
+ - [Some Parser Generators](http://hackingoff.com/compilers/parser-generator)
+ - [Regular Expression Matching can be Simple and Fast](https://swtch.com/~rsc/regexp/regexp1.html)
+ - [Introduction to Theory of Computation](https://homepages.dcc.ufmg.br/~nvieira/cursos/tl/a18s2/material.html)
+ - [Udacity Course: Building  a Web Browser](https://www.udacity.com/course/programming-languages--cs262)
 
 ## Machine Learning
  - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
